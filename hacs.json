@@ -1,5 +1,8 @@
 {
   "name": "Nourish",
   "homeassistant": "2026.3.0",
-  "render_readme": true
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "nourish.zip",
+  "hide_default_branch": true
 }
